@@ -4,7 +4,7 @@ from huggingface_hub import login
 
 import requests
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 

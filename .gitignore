@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.vscode/
+*.pyc
+.env
+user localhost pass.sql
+data_base.sql
